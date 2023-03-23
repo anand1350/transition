@@ -1,0 +1,10 @@
+.cadre{
+   border: 20px solid rgb(13, 242, 208);
+}
+
+img{
+   position: relative;
+   object-fit: fill;
+   width: 300px;
+   height: 300px;
+}
